@@ -9,6 +9,9 @@ boot_contracts = ["pox", "costs-v2", "bns"]
 [contracts.STX-Zygelink]
 path = "contracts/STX-Zygelink.clar"
 
+[contracts.ft-trait]
+path = "contracts/ft-trait.clar"
+
 [repl]
 costs_version = 2
 parser_version = 2
